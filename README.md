@@ -1,9 +1,7 @@
 # EX-03: HALF_ADDER_SUBTRACTOR
-### Developed by: KEERTHANA S
-### RegisterNumber: 212223240070
-
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
-
+# Implementation-of-Half-Adder-and-Half Subtractor-circuit
+Developed by: KEERTHANA S
+RegisterNumber: 212223240070
 **AIM:**
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
